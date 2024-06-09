@@ -1,1 +1,9 @@
-{}
+{
+    "authentication": {
+        "create_account": "/customer/account/create/",
+        "sign_in": "/customer/account/login/"
+    },
+    "profile": {
+        "account": "/customer/account/"
+    }
+}

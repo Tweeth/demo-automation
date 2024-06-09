@@ -1,0 +1,3 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Tue May 21 22:19:19 EEST 2024","Tue May 21 22:19:20 EEST 2024","1068","chrome","tests/e2e/example.spec.ts","","","","get started link",""
+"passed","Tue May 21 22:19:17 EEST 2024","Tue May 21 22:19:19 EEST 2024","1231","chrome","tests/e2e/example.spec.ts","","","","has title",""
