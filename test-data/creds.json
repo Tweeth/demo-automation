@@ -1,3 +1,5 @@
 {
-    "password": "Qwerty123"
+    "testAccountEmail": "lumatest1@dispostable.com",
+    "password": "Qwerty123",
+    "newPassword": "Qwerty12345"
 }

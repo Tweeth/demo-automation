@@ -2,5 +2,8 @@
     "authentication": {
         "email_used": "There is already an account with this email address.",
         "wrong_creds": "The account sign-in was incorrect or your account is disabled temporarily."
+    },
+    "my_account": {
+        "success_alert": "You saved the account information."
     }
 }

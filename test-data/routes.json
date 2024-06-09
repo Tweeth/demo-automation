@@ -4,6 +4,8 @@
         "sign_in": "/customer/account/login/"
     },
     "profile": {
-        "account": "/customer/account/"
+        "account": "/customer/account/",
+        "edit_account_inf": "/customer/account/edit/",
+        "edit_password": "/customer/account/edit/changepass/1/"
     }
 }
